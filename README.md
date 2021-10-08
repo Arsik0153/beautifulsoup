@@ -1,4 +1,4 @@
-# CoinGecko
+# CoinMarketCap
 ## Installation
 ```sh
 pip install beautifulsoup4
